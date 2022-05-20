@@ -1,7 +1,6 @@
 # GTEgorss_lab3
-Optimizing
 
-Стуктура:
+##Стуктура:
 <img width="256" alt="scheme" src="https://user-images.githubusercontent.com/37060880/169501145-739a66ef-61a7-4a69-a645-3679cde751ce.png">
 
 
