@@ -2,16 +2,19 @@
 Optimizing
 
 Стуктура:
-<img width="256" alt="scheme" src="https://user-images.githubusercontent.com/37060880/169499080-11a2bc88-b4da-4a48-b418-ae8f86d73bd1.png">
+<img width="256" alt="scheme" src="https://user-images.githubusercontent.com/37060880/169501145-739a66ef-61a7-4a69-a645-3679cde751ce.png">
 
-<u>TCP Server:</u>
+
+<ins>TCP Server:</ins>
+
   • Node info: name, ip, port, size, files stored
   • AddNode();
   • AddFile();
   • RemoveFile();
   • CleanNode();
   
-<u>TCP Node:</u>
+<ins>TCP Node:</ins>
+
   • Name, ip, port, base path (root folder), List<string> filePaths
   • AddFile();
   • RemoveFile();
