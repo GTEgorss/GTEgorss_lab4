@@ -8,18 +8,28 @@ Optimizing
 <ins>TCP Server:</ins>
 
   • Node info: name, ip, port, size, files stored
+  
   • AddNode();
+  
   • AddFile();
+  
   • RemoveFile();
+  
   • CleanNode();
+  
   
 <ins>TCP Node:</ins>
 
   • Name, ip, port, base path (root folder), List<string> filePaths
+  
   • AddFile();
+  
   • RemoveFile();
+  
   • CleanNode();
+  
   • GetRelativePaths();
+  
 
 
 Тестирование программы:
