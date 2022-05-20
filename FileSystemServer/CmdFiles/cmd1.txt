@@ -1,0 +1,7 @@
+/add-node node1 127.0.0.1:8888 1000
+/add-node node2 127.0.0.1:7777 15
+/add-node node3 127.0.0.1:6666 1000
+/add-file /Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemServer/TestFiles/test1.txt test1.txt
+/add-file /Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemServer/TestFiles/test2.txt test2.txt
+/add-file /Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemServer/TestFiles/test3.txt test3.txt
+/clean-node node

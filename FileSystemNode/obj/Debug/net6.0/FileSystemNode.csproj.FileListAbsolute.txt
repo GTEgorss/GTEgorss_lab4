@@ -1,0 +1,15 @@
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/bin/Debug/net6.0/FileSystemNode
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/bin/Debug/net6.0/FileSystemNode.deps.json
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/bin/Debug/net6.0/FileSystemNode.runtimeconfig.json
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/bin/Debug/net6.0/FileSystemNode.dll
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/bin/Debug/net6.0/ref/FileSystemNode.dll
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/bin/Debug/net6.0/FileSystemNode.pdb
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/obj/Debug/net6.0/FileSystemNode.csproj.AssemblyReference.cache
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/obj/Debug/net6.0/FileSystemNode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/obj/Debug/net6.0/FileSystemNode.AssemblyInfoInputs.cache
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/obj/Debug/net6.0/FileSystemNode.AssemblyInfo.cs
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/obj/Debug/net6.0/FileSystemNode.csproj.CoreCompileInputs.cache
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/obj/Debug/net6.0/FileSystemNode.dll
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/obj/Debug/net6.0/ref/FileSystemNode.dll
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/obj/Debug/net6.0/FileSystemNode.pdb
+/Users/egorsergeev/RiderProjects/GTEgorss_PerfTips/FileSystemNode/obj/Debug/net6.0/FileSystemNode.genruntimeconfig.cache
