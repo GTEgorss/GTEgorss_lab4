@@ -1,9 +1,27 @@
 # GTEgorss_lab3
 Optimizing
 
+Стуктура:
+<img width="256" alt="scheme" src="https://user-images.githubusercontent.com/37060880/169499080-11a2bc88-b4da-4a48-b418-ae8f86d73bd1.png">
+
+<u>TCP Server:</u>
+  • Node info: name, ip, port, size, files stored
+  • AddNode();
+  • AddFile();
+  • RemoveFile();
+  • CleanNode();
+  
+<u>TCP Node:</u>
+  • Name, ip, port, base path (root folder), List<string> filePaths
+  • AddFile();
+  • RemoveFile();
+  • CleanNode();
+  • GetRelativePaths();
+
+
+Тестирование программы:
 3x add on server
 ![image_2022-05-20_09-50-10](https://user-images.githubusercontent.com/37060880/169482315-13d75dd1-0563-432c-9bb1-e6ac9afb821b.png)
-
 
 
 3x add on node
@@ -24,3 +42,7 @@ Optimizing
 
 3x add and 3x clean on node
 ![image_2022-05-20_10-21-48](https://user-images.githubusercontent.com/37060880/169482744-2aa88154-e101-44d4-bec1-7b4a988974e0.png)
+
+
+На всех запусках можно видеть большое количество string и byte[].
+В связи с этим я добавил везде StringBuilder и Array.Pool там, где это было возможно.
