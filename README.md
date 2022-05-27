@@ -134,7 +134,7 @@
   
   ![image_2022-05-27_11-50-05](https://user-images.githubusercontent.com/37060880/170665889-bb878045-10e4-4def-ba85-6bf107d886f8.png)
   
-  ![Uploading image_2022-05-27_11-16-42.png…]()
+  ![image_2022-05-27_11-16-42](https://user-images.githubusercontent.com/37060880/170666438-02cb9c67-ed24-45f4-9986-b4e01196fea7.png)
   
   Добавил ArrayPool для byte[], немного уменьшилось. Меньше 1 Мб
   
